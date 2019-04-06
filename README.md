@@ -56,5 +56,5 @@ reference:
 
 ## environment
 ```
-numpy
+numpy, six, tensorflow, sklearn
 ```
