@@ -53,3 +53,8 @@ reference:
       
 + [https://arxiv.org/abs/1810.04805](https://arxiv.org/abs/1810.04805)
 
+
+## environment
+```
+numpy
+```
